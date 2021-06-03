@@ -5,17 +5,18 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Well-met, fellow human ~ 🍄
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+You've found my [[Zettelkasten is an interconnection-based approach to managing thought|web of thought]], a [digital garden](https://maggieappleton.com/garden-history) inspired by the growing spaces around personal knowledge management, tools for thought, and the indie-web. 
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+<p style="padding: 1em .5em; background: #e3f9ff; border-radius: 4px;">
+  Head to the <span style="font-weight: bold">[[An index of trailheads|index of trailheads]]</span> to find a path.
+</p> 
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+I've just begun to move my local [Obsidian](https://www.obsidian.md/) efforts online, so things are a bit sparse at the moment. What isn't sparse are the greyed-out links; those are notes yet to be migrated 🐢. Soon, though, this will be a robust, living environment of thought - a knowledge base to ease and enable longer-form writing.
 
-If this template helps you in any way, [consider buying me a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
+While these notes are mainly written as part of my own learning process, don't hesitate to [[take what works]], remix it, toss it around a bit - whatever you please.
+
 
 <style>
   .wrapper {
