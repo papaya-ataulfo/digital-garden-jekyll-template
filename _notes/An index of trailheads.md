@@ -4,6 +4,8 @@ title: An index of trailheads
 
 From here, paths branch out towards the various areas of knowledge that I'm engaged in. 
 
+[[Zettelkasten reduces the friction in knowledge work]]
+
 
 ### Site configuration
 

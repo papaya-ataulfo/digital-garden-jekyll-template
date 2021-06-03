@@ -3,13 +3,12 @@ title: Articulating your atomics trains you to think through what you really mea
 ---
 
 *Seeded May 26, 2021*
-## Articulating your atomics trains you to think through what you really mean
 
-[[Most of us take our thinking for granted]]. We don't ever take the time to untangle the messy bundles of thoughts that we have and establish clear, coherent meaning. 
+[[Many of us take our thinking for granted]]. We don't really take the time to untangle the messy bundles of thoughts that we have and find clear, coherent meanings (not that "completion" is real, or anything). 
 
-Articulating your atomics asks you to take your uninvestigated thoughts and make sense of them. [[One note receives one thought]], so that you build clarity unit-by-unit. Putting your models into words forces you to choose tangible, structured forms which ground that thinking. 
+Articulating your atomics asks you to take your uninvestigated thoughts and make sense of them. [[One note receives one thought]], such that you build clarity unit-by-unit. Putting your models into words forces you to choose tangible, structured forms which ground that thinking. 
 
-Regularly practicing this conditions cognitive competency, trains our intuitions ([[Learn to judge what is atomic by intuition]]) and encourages us to remember that we don't really know what we think until we [[Make it tangible]].
+Regularly practicing this conditions cognitive competency, [[Learn to judge what is atomic by intuition|trains our intuitions]], and encourages us to remember that we don't really know what we think until we [[make it tangible]].
 
 ---
 **References:**  
