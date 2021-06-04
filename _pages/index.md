@@ -5,11 +5,11 @@ id: home
 permalink: /
 ---
 
-# Well-met, fellow human ~ 🍄
+# Well-met! 🍄
 
 You've found my [[Zettelkasten is an interconnection-based approach to managing thought|web of thought]], a [digital garden](https://maggieappleton.com/garden-history) inspired by the growing spaces around personal knowledge management, tools for thought, and the indie-web. 
 
-<p style="padding: 1em .5em; background: #e3f9ff; border-radius: 4px;">
+<p style="padding: 1em .5em; background: #efefff; border-radius: 4px;">
   Head to the <span style="font-weight: bold">[[An index of trailheads|index of trailheads]]</span> to find a path.
 </p> 
 
