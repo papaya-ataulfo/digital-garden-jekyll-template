@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing
 ---
 
-## Writing 🖋️
+# Writing 🖋️
 
 I've done just a bit of long-form writing over the past few months; those essays are below.
 

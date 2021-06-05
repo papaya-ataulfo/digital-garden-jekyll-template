@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-## About 🧭
+# About 🧭
 
 I'm developing a set of practices with which to shape the self as a creative form. This is my effort to realize an alternative approach to traditional self-improvement - reimagining it to draw forth a fuller, more authentic, more beautiful way of doing personal growth.
 
