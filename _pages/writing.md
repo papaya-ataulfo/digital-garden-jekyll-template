@@ -11,7 +11,7 @@ I've done just a bit of long-form writing over the past few months; those essays
 ---
 
 These four are some of my first real efforts at long-form articulation of my thinking (feedback is much appreciated):
-- **[[Patterns are an intrinsic feature of reality]]** is an attempt I made at articulating some of the metaphysical/phenomenological models I've acquired over the years
+- **[[Pattern is an intrinsic feature of reality]]** is an attempt I made at articulating some of the metaphysical/phenomenological models I've acquired over the years
 -  **[[Living as dialogue with reality]]** is another ~similar~ piece, where I make the case that we're always co-creating our experiences
 - **[[How did we really get here]]?** - makes the case that we can't really say for sure how we become the people we are today, and...
 - **[[Inherited conditioning, conscious choice, and active co-creation]]** follows the previous, in a related vein

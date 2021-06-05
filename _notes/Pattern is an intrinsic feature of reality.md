@@ -1,5 +1,5 @@
 ---
-title: "Patterns are an intrinsic feature of reality"
+title: "Pattern is an intrinsic feature of reality"
 date: 2021-02-13T18:46:18-04:00
 draft: false
 tags: [patterns, reality, nebulosity]
