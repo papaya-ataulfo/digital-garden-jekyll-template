@@ -13,7 +13,7 @@ You've found my [[Zettelkasten is an interconnection-based approach to managing 
   Head to the <span style="font-weight: bold">[[An index of trailheads|index of trailheads]]</span> to find a path.
 </p> 
 
-I've just begun to move my local [Obsidian](https://www.obsidian.md/) efforts online, so things are a bit sparse at the moment. What isn't sparse are the greyed-out links; those are notes yet to be migrated 🐢. Soon, though, this will be a robust, living environment of thought - a knowledge base to ease and enable [longer-form writing](https://www.livingfluently.com/writing/).
+I've just begun to move my local [Obsidian](https://www.obsidian.md/) efforts online, so things are a bit sparse at the moment. What isn't sparse are the greyed-out links; those are notes yet to be migrated 🐢. Soon, though, this will be a robust, living environment of thought - a knowledge base to ease and enable [longer-form writing](/writing/).
 
 While these notes are mainly written as part of my own learning process, don't hesitate to [[take what works]], remix it, toss it around a bit - whatever you please.
 
