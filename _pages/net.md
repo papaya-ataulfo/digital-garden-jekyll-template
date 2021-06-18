@@ -17,10 +17,6 @@ I've just begun to move my local [Obsidian](https://www.obsidian.md/) efforts on
 
 While these notes are mainly written as part of my own learning process, don't hesitate to [[take what works]], remix it, toss it around a bit - whatever you please.
 
-✌️,  
-
--David L.
-
 <style>
   .wrapper {
     max-width: 46em;
