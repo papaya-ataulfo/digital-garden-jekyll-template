@@ -11,7 +11,7 @@ permalink: /
 <span style="padding: .3em .25em; background-color: #efefff; font-size: 3.5rem; font-weight: bold; border-radius: 11px;"> - Living Fluently - </span>
 
 
-### an effort to develop a fresh, creative approach to personal growth.
+### my effort to develop a fresh, creative approach to personal growth.
 
 I'm stepping feeling-first through each day, heading towards this funky intuition I've got that **we can make jazz of our lives**. That's down the road somewhere far off - right now I'm working on **skills for shaping habits, developing systems, and navigating complexity**. Structure's gotta come before freestyling, after all.
 
