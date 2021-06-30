@@ -1,7 +1,6 @@
 ---
 title: "Composition"
 date: 2021-01-29T20:00:35-04:00
-
 ---
 
 # Composition
