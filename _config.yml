@@ -28,6 +28,9 @@ collections:
   notes:
     output: true
     permalink: /:slug
+  posts:
+    output: true
+    
 
 defaults:
   - scope:
